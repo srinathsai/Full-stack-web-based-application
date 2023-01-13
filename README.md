@@ -10,6 +10,7 @@ Long ago people used to go to offline stores stay in long queues and buy product
   * Html, javascript, css for frontend.
   * Mysql for database.
   * PHP for connecting and coding modules.
+
 ## Features implemented :-
    * Cart function </br>
    * Paypal linking for payment. </br>
@@ -21,3 +22,12 @@ Long ago people used to go to offline stores stay in long queues and buy product
    * Adding categories ,deleting and editing of reports. </br>
    * Adding and deletion of users. </br>
    * Contact page for adding feedback. </br>
+   
+## Aditional features :- 
+  * used 1 view for displaying reports with product_price=5.
+  * Implemented 1 trigger before inserting user into database if user email follows rules he will be added or 
+trigger will throw error.
+  * Executed 1 procedural call in place of select query for selecting categories and used in the function 
+where getcategories are necessary .
+
+
