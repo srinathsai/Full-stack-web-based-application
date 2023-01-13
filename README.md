@@ -30,4 +30,23 @@ trigger will throw error.
   * Executed 1 procedural call in place of select query for selecting categories and used in the function 
 where getcategories are necessary .
 
+## Steps of Execution :- 
+ 1) First thing is you need to download xamp of latest version from chrome.</br>
+ 2) After downloading xamp, extract my ecom folder .</br>
+ 3) Without disturbing that folder paste as it Is in htdocs folder provided by xamp. </br>
+ 4) In Xamp activate apache and mysql.</br>
+ 5) http://localhost/ecom/public/index.php type this in chrome you will get my database homepage 
+ there you can add to cart, perform cart operations as you like . </br>
+ 6) If you decided to buy press buy now it will redirect to paypal.
+ sb-p2qwl20460981@business.example.com
+ J@hn1234
+ Provide this details and click pay now payment will be done. </br>
+ 7) Now for admin, press login and give username as rico, password as 123. </br>
+ 8) Now you are in admin portal right side of dash board you will have features like reports,
+ categories, orders,users, add products and view products where you can perform operations. </br>
+ 9) To see these changes getting reflected in database in phpadmin load my sql file </br>
+
+## Note:-
+ **All the necessary images like how each page looks are pasted in report.pdf. After excution of above steps and you find Similar to the page of starting page in report.pdf then you are officially entered my web based application.**  ***( Happy purchasing)***.
+
 
